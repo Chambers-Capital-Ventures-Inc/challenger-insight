@@ -1,0 +1,23 @@
+# Core data handling
+pandas
+numpy
+
+# EEG analysis
+mne
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter notebooks
+jupyter
+
+# Optional: Excel/CSV helpers
+openpyxl
+
+
+#for running, in terminal with .venv activated run the following
+#"pip install -r requirements.txt"
