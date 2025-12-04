@@ -64,7 +64,7 @@ section[data-testid="stSidebar"] .stMultiSelect svg {
 # ------------------------------------------------------------
 @st.cache_data
 def load_data():
-    base = "data/"
+    base = "../data/"
     eeg_segments = pd.read_csv(base + "challenger_insight_eeg_segments_5000.csv")
     session_summary = pd.read_csv(base + "challenger_insight_session_summary.csv")
     eeg_full = pd.read_csv(base + "clean_eeg.csv")
@@ -77,7 +77,7 @@ eeg_segments, session_summary, eeg_full, eeg_only, clean_eeg = load_data()
 # ------------------------------------------------------------
 # LOAD TRAINED MODEL (Random Forest Regressor)
 # ------------------------------------------------------------
-MODEL_PATH = "notebooks/tuned_rf_disengagement.pkl"
+MODEL_PATH = "../notebooks/tuned_rf_disengagement.pkl"
 model = joblib.load(MODEL_PATH)
 
 # ------------------------------------------------------------
@@ -130,7 +130,7 @@ def get_leaving_before_end(df):
 # HEADER + LOGO
 # ------------------------------------------------------------
 st.title("Disengagement Analysis Dashboard")
-st.image("data/color_deephumanx_logo.png", width=200)
+st.image("../data/color_deephumanx_logo.png", width=200)
 st.markdown("### **AI-Augmented • Human-Enhanced • Purpose-Driven™**")
 
 # ------------------------------------------------------------
