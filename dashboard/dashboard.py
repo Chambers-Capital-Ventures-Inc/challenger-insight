@@ -368,4 +368,8 @@ st.plotly_chart(risk_fig, use_container_width=True)
 # END
 # ------------------------------------------------------------
 st.markdown("---")
-st.markdown("### © DeepHumanX — Adaptive Learning Platform • 2025")
+st.markdown("""
+<div style='text-align: center; color: #666666; padding: 20px;'>
+    <p>© DeepHumanX — Adaptive Learning Platform • 2025</p>
+</div>
+""", unsafe_allow_html=True)
