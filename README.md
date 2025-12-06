@@ -66,3 +66,5 @@ streamlit run ./dashboard/dashboard.py
 
 *6. Access in your browser:*
 The dashboard will automatically open at http://localhost:8501
+
+---
