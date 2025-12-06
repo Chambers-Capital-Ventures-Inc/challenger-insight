@@ -30,4 +30,39 @@ The goal is to proactively identify early signs of learner disengagement and rec
 ## Desired Outcomes:
 - Visual insights into brain-wave patterns indicating cognitive overload  
 - Predictive analytics to identify engagement risks early  
-- Actionable recommendations for adaptive, personalized learning triggers  
+- Actionable recommendations for adaptive, personalized learning triggers
+
+---
+## Accessing the Dashboard
+
+### Quick Start on Any IDE
+
+*1. Clone the repository and checkout the branch:*
+ ```
+git clone <repository-url>
+cd challenger-insight
+git checkout 3b-final
+```
+
+*2. Create a virtual environment:*
+```
+python3 -m venv venv
+```
+
+*3. Activate the virtual environment:*
+```
+source .venv/bin/activate
+```
+
+*4. Install dependencies:*
+```
+pip install -r ./docs/requirements.txt
+```
+
+*5. Run the dashboard:*
+```
+streamlit run ./dashboard/dashboard.py
+```
+
+*6. Access in your browser:*
+The dashboard will automatically open at http://localhost:8501
