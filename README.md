@@ -78,11 +78,7 @@ Open the notebooks in the following order:
 
 ## Project Overview
 
-This project was developed as part of the Break Through Tech AI Program (AI Studio). Our team partnered with Chambers Capital Ventures to explore how neuroscience-informed data can improve learning outcomes in professional training environments.
-
-The project objective was to identify disengagement during technical learning sessions and recommend adaptive strategies before learners fully disengage. By combining EEG-based attention indicators with survey responses, we aimed to move beyond traditional completion metrics and capture engagement as it happens.
-
-The real-world impact of this work lies in helping organizations reduce training drop-off, improve learner retention, and personalize instruction at scale.
+This project was developed to explore how neuroscience-informed data can improve learning outcomes in professional training environments. Our primary goal was to identify disengagement during technical learning sessions and recommend adaptive strategies before learners fully disengage. By combining EEG-based attention indicators with survey responses, we aimed to move beyond traditional completion metrics and capture engagement as it happens. This system can be contributed to reducing training drop-off, improve learner retention, and personalize instruction at scale.
 
 ---
 
