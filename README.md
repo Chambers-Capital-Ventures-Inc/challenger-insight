@@ -6,23 +6,6 @@ Prototype predictive model for learner disengagement risk using EEG brain-wave d
 
 ---
 
-## Team Members:
-
-| Name                 | GitHub Handle        | Contribution                                                                                             |
-| -------------------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
-| Meagan Alfaro        | @meaganalfaro        | Model development, prototype implementation, hyperparameter tuning, documentation                                               |
-| Ishrat Arshad        | @ishratarshad        | Model development/validation, data preprocessing, exploratory data analysis (EDA), dataset documentation        |
-| Ruby Hong            | @rubysmac            | Model development/validation, data preprocessing, exploratory data analysis (EDA), dataset documentation |
-| Aneesa Ayornu        | @aeza404             | Data preprocessing, feature engineering, data validation                                                 |
-| Mahathi Chinthapalli | @MahathiChinthapalli | Model selection, hyperparameter tuning, training and optimization                                        |
-| Amanda Thomas        | @amandathom          | Model evaluation, hyperparameter tuning, performance analysis, results interpretation                                           |
-| Izabella Doser       | @Izabelladesign      | Data exploration, dimensionality reduction, model development, documentation                             |
-| Arian Bahram         | @ariansbahram        | Data preprocessing, exploratory data analysis (EDA), model development                                    |
-| Saket Kolluru        | @Saketk2             | Dashboard development, data visualization, results interpretation                                        |
-| Eden Radulescu       | @edenradulescu       | Dashboard development, data visualization, results interpretation                                        |
-
----
-
 ## Project Highlights:
 
 - Built a machine learning pipeline to detect learner disengagement by combining EEG-derived features with self-reported survey signals.
@@ -162,6 +145,22 @@ These visual components are designed to support real-time monitoring and future 
 
 ---
 
+## Team Members:
+
+| Name                 | GitHub Handle        | Contribution                                                                                             |
+| -------------------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Meagan Alfaro        | @meaganalfaro        | Model development, prototype implementation, hyperparameter tuning, documentation                                               |
+| Ishrat Arshad        | @ishratarshad        | Model development/validation, data preprocessing, exploratory data analysis (EDA), dataset documentation        |
+| Ruby Hong            | @rubysmac            | Model development/validation, data preprocessing, exploratory data analysis (EDA), dataset documentation |
+| Aneesa Ayornu        | @aeza404             | Data preprocessing, feature engineering, data validation                                                 |
+| Mahathi Chinthapalli | @MahathiChinthapalli | Model selection, hyperparameter tuning, training and optimization                                        |
+| Amanda Thomas        | @amandathom          | Model evaluation, hyperparameter tuning, performance analysis, results interpretation                                           |
+| Izabella Doser       | @Izabelladesign      | Data exploration, dimensionality reduction, model development, documentation                             |
+| Arian Bahram         | @ariansbahram        | Data preprocessing, exploratory data analysis (EDA), model development                                    |
+| Saket Kolluru        | @Saketk2             | Dashboard development, data visualization, results interpretation                                        |
+| Eden Radulescu       | @edenradulescu       | Dashboard development, data visualization, results interpretation                                        |
+
+---
 ## License
 
 This project is licensed under the MIT License (pending Challenge Advisor approval).
