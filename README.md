@@ -1,4 +1,4 @@
-# Neuroscience-Driven Learning Engagement System:
+# Learning Disengagement Model:
 
 ## Challenger Insight:
 
